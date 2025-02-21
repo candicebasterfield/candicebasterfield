@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am currently a PhD candidate at Penn State with an interest in learning new data science methods and exploring new technologies. I enjoy working with data, solving interesting problems, and expanding my skill set.
+
+**Tech Stack 🛠️
+Languages: Python, SQL
+Libraries/Frameworks: Pandas, Numpy, Matplotlib, Sci-kit-learn
+Databases: MySQL
+Version Control: Git, GitHub**
+
+
 <!--
 **candicebasterfield/candicebasterfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
