@@ -4,7 +4,7 @@ I am currently a PhD candidate at Penn State with an interest in learning new da
 
 **Tech Stack 🛠️  
 Languages: Python, SQL  
-Libraries/Frameworks: Pandas, Numpy, Matplotlib, Sci-kit-learn  
+Libraries/Frameworks: Pandas, Numpy, Seaborn, Matplotlib, Sci-kit-learn  
 Databases: MySQL  
 Version Control: Git, GitHub**  
 
