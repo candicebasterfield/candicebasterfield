@@ -5,7 +5,7 @@ I am a PhD candidate at Penn State. I am interested in learning new data science
 Languages: Python, SQL  
 Libraries/Frameworks: Pandas, Numpy, Seaborn, Matplotlib, Sci-kit-learn  
 Databases: MySQL  
-Version Control: Git, GitHub**  
+Version Control: Git, GitHub
 
 
 <!--
