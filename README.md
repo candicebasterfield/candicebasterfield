@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-I am currently a PhD candidate at Penn State with an interest in learning new data science methods and exploring new technologies. I enjoy working with data, solving interesting problems, and expanding my skill set.
+I am a PhD candidate at Penn State. I am interested in learning new data science methods and exploring new technologies. 
 
-**Tech Stack 🛠️  
 Languages: Python, SQL  
 Libraries/Frameworks: Pandas, Numpy, Seaborn, Matplotlib, Sci-kit-learn  
 Databases: MySQL  
